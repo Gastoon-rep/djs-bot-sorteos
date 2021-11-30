@@ -39,7 +39,7 @@ module.exports = {
     inviteToParticipate: `Reacciona a 🎁 para participar en el sorteo.`,
     winMessage: '{winners}, Sorteo: **{this.prize}**',
     embedFooter: 'Sorteo',
-    noWinner: "Nadien ha reaccionado, el sorteo se cancelo.',
+    noWinner: 'Nadien ha reaccionado, el sorteo se cancelo.',
     hostedBy: 'Host: **{this.hostedBy}**',
     winners: '¡Ganadores!',
     endedAt: 'Sorteo finalizado.',
