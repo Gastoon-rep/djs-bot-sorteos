@@ -22,7 +22,7 @@ module.exports = {
   })
   .catch((e) => {
     message.channel.send(`!ha ocurrido un error!`)
-  }
+  })
   
  }
 };
