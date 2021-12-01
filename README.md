@@ -1,4 +1,4 @@
-[![Discord Server](https://img.shields.io/discord/667479986214666272?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/hwRTryRe7P)
+[![Discord Server](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hwRTryRe7P)
 # djs-bot-sorteos
 ***
 Ejemplo de como crear un bot de discord de sorteos en español.
